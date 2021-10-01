@@ -17,7 +17,7 @@ def pingcheck(servers):
       return outputlist
 
 
-servers=list(open("test.txt"))
+servers=list(open("ip.txt"))
 #print(servers)
 outputlist=[]
 
